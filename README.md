@@ -18,7 +18,7 @@ The application allows users to upload medical reports such as CBC, LFT, RFT, Li
 - Secure and easy deployment on Streamlit Cloud or locally
 
 ## Screenshots
-<img width="1920" height="1200" alt="Screenshot (1424)" src="https://github.com/user-attachments/assets/630717ec-3605-431d-b771-ab735eef2f41" />
+<img width="1458" height="985" alt="image" src="https://github.com/user-attachments/assets/57c25e67-f0c5-4d80-a253-57c151569191" />
 
 <img width="1821" height="793" alt="image" src="https://github.com/user-attachments/assets/c03e6ef6-2326-4586-b0c8-2f1a5f7f1cfb" />
 
